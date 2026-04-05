@@ -1,0 +1,21 @@
+# node_modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# env files
+.env
+client/.env
+server/.env
+
+# build
+dist/
+build/
+.next/
+
+# logs
+npm-debug.log
+yarn-error.log
+
+# OS
+.DS_Store
