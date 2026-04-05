@@ -24,7 +24,7 @@ TaskMate/
 - **Database**: PostgreSQL
 - **Auth**: JWT (Access Token + Refresh Token)
 - **Password Hashing**: bcrypt
-
+- **Validation**: Zod
 
 ### Client
 - **Framework**: Next.js 14 (App Router)
@@ -40,7 +40,7 @@ TaskMate/
 
 ### Prerequisites
 
-- Node.js v22+
+- Node.js v18+
 - PostgreSQL running locally (or a connection string)
 - npm or yarn
 
